@@ -5,7 +5,7 @@ I am Arjun Jadeja from India, I really enjoy building new apps and working with 
 ![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArjunJadeja&hide=stars,contribs&show_icons=true&theme=dark)
 
 ## Skills
-* ☕️ Java
+* ☕️ Java, Kotlin
 * 📱 Android Development
 * 🖥 Html, CSS, JavaScript
 * ☁️ Google Cloud
