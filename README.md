@@ -2,12 +2,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Arjun Jadeja</h1>
-<h3 align="center">A passionate android developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunjadeja&label=Profile%20views&color=0e75b6&style=flat" alt="arjunjadeja" /> </p>
-
-<p align="left"> <a href="https://twitter.com/thearjunjadeja" target="blank"><img src="https://img.shields.io/twitter/follow/thearjunjadeja?logo=twitter&style=for-the-badge" alt="thearjunjadeja" /></a> </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +14,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunjadeja&show_icons=true&locale=en&layout=compact" alt="arjunjadeja" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunjadeja&" alt="arjunjadeja" /></p>
