@@ -1,20 +1,13 @@
 ![banner](https://user-images.githubusercontent.com/81246797/159502727-ce4390fd-7071-4ca7-bce0-955e0fb63bc9.png)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunJadeja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ArjunJadeja)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arjun-jadeja/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/thearjunjadeja)  
-
 <h1 align="center">Hi 👋, I'm Arjun Jadeja</h1>
 <h3 align="center">A passionate android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunjadeja&label=Profile%20views&color=0e75b6&style=flat" alt="arjunjadeja" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunjadeja" alt="arjunjadeja" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/thearjunjadeja" target="blank"><img src="https://img.shields.io/twitter/follow/thearjunjadeja?logo=twitter&style=for-the-badge" alt="thearjunjadeja" /></a> </p>
 
-- 🔭 I’m currently working on **BluffMaster Android App**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
