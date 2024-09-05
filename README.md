@@ -1,22 +1,22 @@
 ```kotlin
 val arjun by lazy {
     human(
-        name = "Arjun Jadeja",
+        name = "arjun jadeja",
         age = "24",
         setup = setup {
-            machine = "💻 MacBook Air M1 (256GB, 8GB RAM)"
-            android = "📱 OnePlus 7T (256GB, 8GB RAM)"
-            earbuds = "🎧 Oppo Enco 2"
-            chair = "🪑 Basic Recliner"
-            table = "🛠️ Sturdy Wooden Table (with a slick drawer for my diary and laptop)"
+            machine = "macbook air m1 (256gb, 8gb ram)"
+            android = "oneplus 7t (256gb, 8gb ram)"
+            earbuds = "oppo enco 2"
+            chair = "basic recliner"
+            table = "sturdy wooden table (with a slick drawer for my diary and laptop)"
         },
         tools = tools {
-            notes = listOf("📝 Notion", "🗒️ Apple Notes", "✒️ Pen & Diary", "🖥️ Stickies")
-            design = listOf("🎨 Figma", "🖌️ Canva", "✏️ Excalidraw")
-            music = listOf("🎵 Spotify", "🎶 YouTube Music")
+            notes = listOf("notion", "apple notes", "pen & diary", "stickies")
+            design = listOf("figma", "canva", "excalidraw")
+            music = listOf("spotify", "youtube music")
         },
     )
 }
-println("Hello 👋")
-print("Feel free to connect!")
+println("hello 👋")
+print("feel free to connect!")
 ```
