@@ -2,7 +2,7 @@
 val arjun by lazy {
     human(
         name = "arjun jadeja",
-        age = "24",
+        age = 24,
         setup = setup {
             machine = "macbook air m1 (256gb, 8gb ram)"
             android = "oneplus 7t (256gb, 8gb ram)"
