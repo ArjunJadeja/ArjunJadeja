@@ -1,5 +1,5 @@
 ```kotlin
-val arjun by lazy {
+val arjun {
     human(
         name = "arjun jadeja",
         age = 24,
